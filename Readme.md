@@ -1,5 +1,5 @@
 Instruction :
 1- npm i
-2 adsda
+2 git status
 
 adsadsa
